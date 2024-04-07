@@ -1,2 +1,9 @@
 # H3-Projekt
-H3-Projekt Template - Starter repository for H3 projektforløb
+
+Vores H3 består af 3 dele
+
+## [IoT](/IoT/) med Arduino
+
+## [Serverside-API](/API/) med ORM
+
+## [Frontend](/Frontend/) med valgfrit sprog og framework
